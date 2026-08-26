@@ -1,39 +1,40 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohamed%20Sameer%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cybersecurity%20Explorer&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00C9A7&height=230&section=header&text=MOHAMED%20SAMEER%20S&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20%7C%20CYBERSECURITY&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=800&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+%26+Generative+AI+Enthusiast+%F0%9F%A7%A0;Cybersecurity+%26+Networking+Explorer+%F0%9F%94%90;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
+<br>
 
-<br/>
+<!-- ===================== TYPING ANIMATION ===================== -->
 
-<img src="https://komarev.com/ghpvc/?username=MohamedSameer27&label=Profile%20Views&color=38BDAE&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Generative+AI+Explorer+%F0%9F%A7%A0;Cybersecurity+%26+Networking+Explorer+%F0%9F%94%90;Building+Ideas+Into+Real+Applications+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9C%A8"/>
 
-<a href="https://github.com/MohamedSameer27">
-<img src="https://img.shields.io/github/followers/MohamedSameer27?label=Followers&style=for-the-badge&color=203A43"/>
-</a>
+<br><br>
+
+<!-- ===================== PROFILE BADGES ===================== -->
+
+<img src="https://komarev.com/ghpvc/?username=MohamedSameer27&label=PROFILE%20VIEWS&color=00C9A7&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/MohamedSameer27?label=FOLLOWERS&style=for-the-badge&color=203A43"/>
+
+<img src="https://img.shields.io/github/stars/MohamedSameer27?label=STARS&style=for-the-badge&color=2C5364"/>
 
 </div>
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
+
 # 👨‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
 
-### Hi, I'm Mohamed Sameer S 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=600&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI%2FML+%26+Generative+AI+Enthusiast;Cybersecurity+Explorer;Problem+Solver;Technology+Learner"/>
 
-🎓 **B.E. Computer Science & Engineering Student**
+</div>
 
-💻 **Full-Stack Developer**
-
-🧠 **AI / ML & Generative AI Enthusiast**
-
-🔐 **Cybersecurity & Networking Explorer**
-
-🚀 Passionate about building practical software, intelligent applications,
-automation systems, and security-focused solutions.
+<br>
 
 ```python
 class MohamedSameer:
@@ -45,309 +46,234 @@ class MohamedSameer:
         self.role = [
             "Full-Stack Developer",
             "AI/ML Enthusiast",
-            "Generative AI Developer",
+            "Generative AI Explorer",
             "Cybersecurity Explorer"
         ]
 
-        self.education = (
-            "B.E. Computer Science & Engineering"
-        )
+        self.education = "B.E. Computer Science & Engineering"
 
         self.cgpa = 7.68
 
-        self.primary_languages = [
+        self.skills = [
             "Python",
-            "JavaScript",
-            "TypeScript",
-            "C",
-            "C++",
-            "Java"
+            "React.js",
+            "Next.js",
+            "Node.js",
+            "FastAPI",
+            "Flask",
+            "TensorFlow",
+            "PyTorch",
+            "LangChain",
+            "MongoDB"
         ]
 
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
             "Generative AI",
-            "Full-Stack Development",
             "Cybersecurity",
-            "Networking"
-        ]
-
-        self.current_focus = [
-            "LLMs",
-            "RAG Pipelines",
-            "Prompt Engineering",
-            "AI Applications",
-            "Cloud & Backend Development",
-            "Security Automation"
+            "Networking",
+            "Full-Stack Development"
         ]
 
     def motto(self):
+
         return "Build. Learn. Solve. Innovate. 🚀"
-<br clear="right"/>
-🧠 What I Do
+
+
+developer = MohamedSameer()
+
+print(developer.motto())
+⚡ Animated Tech Stack
 <div align="center">
-🤖 Artificial Intelligence	💻 Full-Stack Development	🔐 Cybersecurity
-AI/ML Applications	Modern Web Applications	Vulnerability Assessment
-Generative AI	REST APIs	Network Security
-LLMs & RAG	Backend Systems	Ethical Hacking
-Prompt Engineering	Database Integration	Security Tools
-</div>
-🛠️ Tech Stack
-💻 Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java" /> </p>
-🌐 Frontend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /> </p>
-⚙️ Backend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /> </p>
-🤖 AI / ML & Generative AI
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /> </p> <div align="center">
+💻 Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java&perline=6"/>
 
-Scikit-learn • Hugging Face Transformers • LangChain
+<br><br>
 
-LLMs • Prompt Engineering • RAG Pipelines • Fine-tuning
+🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5"/>
 
-</div>
+<br><br>
+
+⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4"/>
+
+<br><br>
+
+🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4"/> <br> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<br><br>
+
 🗄️ Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" /> </p>
-🔐 Cybersecurity & Networking
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase&perline=3"/>
 
-Kali Linux • Nmap • Wireshark • Burp Suite
+<br><br>
 
-Metasploit • Ethical Hacking • Vulnerability Assessment
+🔐 Cybersecurity
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/> </div>
+🚀 Animated Projects
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=BF91F3&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;AI+%7C+Full-Stack+%7C+Cybersecurity;Turning+Problems+Into+Solutions+%F0%9F%9A%80"/> </div>
+🤖 AI Voice Assistant
+🎙️ Voice Input
+      ↓
+🧠 Speech Recognition
+      ↓
+🤖 AI Processing
+      ↓
+⚙️ Task Automation
+      ↓
+🔊 Intelligent Response
 
-TCP/IP • DNS • Socket Programming • Network Security • VOIP
+Technologies: Python Speech Recognition AI APIs
 
-</div>
-🚀 Featured Projects
 📚 Learning Management System
+👨‍🎓 Student
+      ↓
+🔐 Authentication
+      ↓
+📚 Courses
+      ↓
+📝 Assignments
+      ↓
+📊 Learning Resources
 
-Full-stack platform designed for managing educational activities.
-
-Features
-
-📖 Course management
-👨‍🎓 Student record management
-📝 Assignment management
-📚 Learning resources
-🔐 Secure user authentication
-🌐 Full-stack web architecture
-
-Tech Stack
-
-React.js Node.js Express.js MongoDB Tailwind CSS
+Technologies: React.js Node.js Express.js MongoDB Tailwind CSS
 
 📞 VOIP Communication System
+🎤 Voice
+   ↓
+📡 Network
+   ↓
+🔌 Socket Programming
+   ↓
+🌐 IP Communication
+   ↓
+🔊 Voice Output
 
-Real-time voice communication system built using networking and socket programming concepts.
-
-Highlights
-
-🌐 Voice communication over IP networks
-🔌 Socket programming
-📡 TCP/IP networking concepts
-⚡ Real-time communication
-🧩 Network protocol integration
-
-Tech Stack
-
-Python Socket Programming TCP/IP Networking
-
-🎙️ AI Voice Assistant
-
-AI-powered voice assistant capable of understanding voice commands and performing automated tasks.
-
-Capabilities
-
-🎤 Speech recognition
-🧠 AI-powered responses
-🗣️ Voice command processing
-⚙️ Task automation
-🔗 AI API integration
-
-Tech Stack
-
-Python Speech Recognition AI Libraries APIs
+Technologies: Python Socket Programming TCP/IP Networking
 
 🛡️ Phishing Detection System
+🌐 URL / Website
+       ↓
+🔍 Feature Analysis
+       ↓
+🧠 ML Model
+       ↓
+⚠️ Risk Detection
+       ↓
+🛡️ Security Result
 
-Machine-learning and security-based system designed to identify potentially malicious websites, suspicious URLs, and fraudulent emails.
-
-Capabilities
-
-🔎 Suspicious URL analysis
-🌐 Malicious website detection
-📧 Fraudulent email identification
-🤖 Machine learning analysis
-🔐 Security-focused detection
-
-Tech Stack
-
-Python Machine Learning Cybersecurity Security Analysis
+Technologies: Python Machine Learning Cybersecurity
 
 🐉 Kali Linux Vulnerability Assessment Tool
+🎯 Authorized Target
+        ↓
+🔍 Scanning
+        ↓
+🧪 Vulnerability Analysis
+        ↓
+⚠️ Risk Identification
+        ↓
+📊 Security Report
+        ↓
+💡 Remediation
 
-Cybersecurity assessment tool designed for authorized systems to identify vulnerabilities and generate security reports.
-
-Capabilities
-
-🔍 Vulnerability scanning
-🛡️ Security risk analysis
-📊 Report generation
-💡 Remediation recommendations
-🖥️ Authorized system assessment
-
-Tech Stack
-
-Python Kali Linux Networking Security Tools
+Technologies: Python Kali Linux Networking Security Tools
 
 💼 Experience
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=38BDAE&center=true&vCenter=true&width=650&lines=Internship+Experience;Learning+Through+Real+Projects;Turning+Knowledge+Into+Practical+Skills"/> </div>
 🏢 Adroit Technologies Innovative Solutions Pvt. Ltd.
+
 Internship Trainee — Learning Management System
 
-IBM Naan Mudhalvan 4th Semester (2024–25) EBPL Program
+IBM Naan Mudhalvan EBPL Program
 
 📅 29 December 2025 – 9 February 2026
 
-Completed internship training focused on LMS development and implementation.
-Gained practical exposure to software development and web technologies.
-Worked with real-world project workflows.
-Improved technical and problem-solving skills.
-Collaborated on hands-on development tasks.
+LMS development and implementation
+Web development workflows
+Real-world project exposure
+Problem solving
+Collaborative development
 🔐 Livewire Internship
-Cybersecurity & Ethical Hacking
-Hands-on exposure to ethical hacking concepts.
-Worked with cybersecurity and network security concepts.
-Practiced vulnerability assessment methodologies.
-Explored security testing tools.
-Worked with networking and security labs.
 
-Tools & Technologies
+Ethical Hacking & Cybersecurity
 
-Kali Linux Nmap Wireshark Burp Suite Metasploit
+🔐 Ethical Hacking
+      ↓
+🌐 Network Security
+      ↓
+🔍 Vulnerability Assessment
+      ↓
+🛠️ Security Tools
+      ↓
+📊 Security Analysis
 
-🏆 Certifications & Achievements
-<div align="center">
-🏅 Certification / Achievement	📌 Area
-🐍 Python Certification	CSC Computer Educational Institution
-💻 C & C++ Certification	CSC Computer Educational Institution
-☕ Java Certification	CSC Computer Educational Institution
-🤖 Generative AI Hands-on	LLMs, RAG, Prompt Engineering
-🔐 Ethical Hacking & Cybersecurity	Livewire
-📚 LMS Internship	IBM Naan Mudhalvan / AdroIT
-🥽 XR Technology Virtual Internship	Naan Mudhalvan / E16AI
-</div>
+Tools: Kali Linux Nmap Wireshark Burp Suite Metasploit
+
 🎓 Education
-<div align="center">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=B.E.+Computer+Science+%26+Engineering;CGPA%3A+7.68;Currently+Pursuing+Final+Year"/>
 🎓 B.E. Computer Science & Engineering
 
 Aalim Muhammed Salegh College of Engineering, Chennai
-
-Currently Pursuing — Final Year
 
 CGPA: 7.68
 
 📘 Higher Secondary — 12th
 
-Tan Academy Matric Higher Secondary School, Kumbakonam
+Tan Academy Matric Higher Secondary School
 
-2023 — 63.4%
+2023 • 63.4%
 
 </div>
+🏆 Certifications
+<div align="center"> <img src="https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%20%26%20C++-Certified-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Ethical%20Hacking-Cybersecurity-00C9A7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative%20AI-Hands--On-BF91F3?style=for-the-badge"/> <img src="https://img.shields.io/badge/XR%20Technology-Virtual%20Internship-203A43?style=for-the-badge"/> </div>
 🧠 Currently Learning
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=70A5FD&center=true&vCenter=true&width=750&lines=Exploring+Large+Language+Models;Building+RAG+Pipelines;Learning+Vector+Databases;Experimenting+with+AI+Agents;Improving+Cloud+%26+Backend+Skills;Exploring+Cybersecurity+Automation" /> </div>
-🤖 Generative AI
-   ├── Large Language Models
-   ├── RAG Pipelines
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=600&color=00C9A7&center=true&vCenter=true&width=800&lines=Learning+Generative+AI;Exploring+LLMs;Building+RAG+Pipelines;Studying+Vector+Databases;Learning+AI+Agents;Improving+Cloud+%26+Backend+Skills;Exploring+Cybersecurity+Automation"/> </div>
+🧠 GENERATIVE AI
+   ├── LLMs
+   ├── RAG
    ├── Prompt Engineering
    └── Fine-tuning
 
-🧠 Machine Learning
+🤖 MACHINE LEARNING
    ├── TensorFlow
    ├── PyTorch
    ├── Scikit-learn
    └── OpenCV
 
-💻 Software Development
-   ├── React.js
+💻 DEVELOPMENT
+   ├── React
    ├── Next.js
    ├── Node.js
    ├── FastAPI
    └── Flask
 
-🔐 Cybersecurity
+🔐 SECURITY
    ├── Ethical Hacking
-   ├── Vulnerability Assessment
    ├── Network Security
+   ├── Vulnerability Assessment
    └── Security Automation
-📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/MohamedSameer27"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedSameer27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/> </a> <a href="https://github.com/MohamedSameer27"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSameer27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </a> </div>
+📊 GitHub Statistics
+<div align="center"> <a href="https://github.com/MohamedSameer27"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedSameer27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> </a> <a href="https://github.com/MohamedSameer27"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSameer27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </a> </div>
 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=MohamedSameer27&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="75%"/> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSameer27&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true" width="100%"/> </div>
-🐍 Contribution Snake
+<div align="center"> <img src="https://streak-stats.demolab.com?user=MohamedSameer27&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00C9A7&fire=BF91F3&currStreakLabel=00C9A7&sideLabels=70A5FD&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="80%"/> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSameer27&theme=tokyo-night&bg_color=0D1117&color=00C9A7&line=BF91F3&point=70A5FD&area=true&hide_border=true" width="100%"/> </div>
+🐍 Contribution Snake Animation
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
-🏆 GitHub Trophies
+🏆 GitHub Trophy Wall
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MohamedSameer27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/> </div>
-💡 My Development Philosophy
-<div align="center">
-Think → Build → Test → Improve → Ship
-</div>
-                 ┌─────────────────────┐
-                 │       PROBLEM       │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │      RESEARCH      │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │       DESIGN       │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │       BUILD        │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │       TEST         │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │       SHIP 🚀      │
-                 └─────────────────────┘
-🤝 Let's Connect
-<div align="center"> <a href="mailto:mohamedsameer2702005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/MohamedSameer27"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
+⚡ Developer Activity
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=1800&pause=700&color=38BDAE&center=true&vCenter=true&width=800&lines=Code+%E2%86%92+Test+%E2%86%92+Debug+%E2%86%92+Deploy;Learn+%E2%86%92+Build+%E2%86%92+Improve;Ideas+%E2%86%92+Projects+%E2%86%92+Impact"/> </div>
+🤝 Connect With Me
+<div align="center"> <a href="mailto:mohamedsameer2702005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/MohamedSameer27"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<br/><br/>
+<br><br>
 
-💬 Open to
-
-Internships • Full-Stack Development • AI/ML Projects
-
-Generative AI • Cybersecurity • Open Source Collaboration
-
-</div>
-<div align="center">
-🚀 Building the Future, One Commit at a Time.
-
-Mohamed Sameer S
-
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer&animation=twinkling"/> </div> ```
-What I changed
-Removed unsupported/older project claims such as Airline Reservation System and AI Portfolio Generator.
-Added your Phishing Detection System and Kali Linux Vulnerability Assessment Tool, which are explicitly present in your resume.
-Added your actual AI/ML stack: TensorFlow, PyTorch, Scikit-learn, OpenCV, Hugging Face Transformers and LangChain.
-Added Livewire Cybersecurity Internship and the tools you worked with: Kali Linux, Nmap, Wireshark, Burp Suite and Metasploit.
-Added your IBM Naan Mudhalvan / Adroit Technologies LMS internship with the correct duration.
-Added animated typing text, animated header/footer, GitHub stats, streaks, activity graph, contribution snake and trophy wall.
-Structured it more like a professional developer portfolio rather than a simple student README.
-Kept your CGPA 7.68 and education details consistent with the resume.
-
-One important point: your resume says you are currently pursuing your final year, so I kept that wording rather than presenting the degree as already completed.
-
-
-developer = MohamedSameer()
-print(developer.motto())
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=BF91F3&center=true&vCenter=true&width=700&lines=Open+to+Internships+%F0%9F%92%BC;Open+to+AI%2FML+Projects+%F0%9F%A4%96;Open+to+Full-Stack+Opportunities+%F0%9F%92%BB;Open+to+Cybersecurity+Projects+%F0%9F%94%90;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80"/> </div>
+<!-- ===================== ANIMATED FOOTER ===================== --> <div align="center"> <br>
+🚀 BUILD • LEARN • SOLVE • INNOVATE
+<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80"/> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00C9A7&height=160&section=footer&animation=twinkling"/> </div> ```

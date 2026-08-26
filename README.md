@@ -1,127 +1,353 @@
-banner
-Typing SVG
+<!-- ========================= HEADER ========================= -->
 
+<div align="center">
 
-class Developer:    def __init__(self):        self.name = "Mohamed Sameer S"        self.location = "Chennai, Tamil Nadu, India"        self.degree = "B.E. Computer Science & Engineering"        self.stack = ["Python", "React.js", "Node.js", "TensorFlow", "FastAPI"]        self.currently_learning = ["Rust", "Advanced GenAI", "Web3"]            def motto(self):        return "Building intelligent solutions to automate the future. 🤖"    @property    def fun_fact(self):        return "I automate tasks with AI so I can spend more time finding vulnerabilities. 🛡️"
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohamed%20Sameer%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cybersecurity%20Explorer&descAlignY=58&descSize=17"/>
 
-🛠️ &nbsp;Tech Arsenal
-&nbsp;&nbsp;&nbsp; Languages
-Python
-JavaScript
-TypeScript
-C++
-Java
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=800&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+%26+Generative+AI+Enthusiast+%F0%9F%A7%A0;Cybersecurity+%26+Networking+Explorer+%F0%9F%94%90;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
 
-&nbsp;&nbsp;&nbsp; Frameworks
-React
-Next.js
-Node.js
-FastAPI
-Flask
-Tailwind CSS
+<br/>
 
-&nbsp;&nbsp;&nbsp; Cloud & DevOps
-Kali Linux
-Burp Suite
-Wireshark
+<img src="https://komarev.com/ghpvc/?username=MohamedSameer27&label=Profile%20Views&color=38BDAE&style=for-the-badge" />
 
-&nbsp;&nbsp;&nbsp; Databases
-MongoDB
-Firebase
-Supabase
+<a href="https://github.com/MohamedSameer27">
+<img src="https://img.shields.io/github/followers/MohamedSameer27?label=Followers&style=for-the-badge&color=203A43"/>
+</a>
 
-&nbsp;&nbsp;&nbsp; Tools & AI/ML
-TensorFlow
-PyTorch
-HuggingFace
-OpenCV
-LangChain
+</div>
 
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### Hi, I'm Mohamed Sameer S 👋
+
+🎓 **B.E. Computer Science & Engineering Student**
+
+💻 **Full-Stack Developer**
+
+🧠 **AI / ML & Generative AI Enthusiast**
+
+🔐 **Cybersecurity & Networking Explorer**
+
+🚀 Passionate about building practical software, intelligent applications,
+automation systems, and security-focused solutions.
+
+```python
+class MohamedSameer:
+
+    def __init__(self):
+
+        self.name = "Mohamed Sameer S"
+
+        self.role = [
+            "Full-Stack Developer",
+            "AI/ML Enthusiast",
+            "Generative AI Developer",
+            "Cybersecurity Explorer"
+        ]
+
+        self.education = (
+            "B.E. Computer Science & Engineering"
+        )
+
+        self.cgpa = 7.68
+
+        self.primary_languages = [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "C",
+            "C++",
+            "Java"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Full-Stack Development",
+            "Cybersecurity",
+            "Networking"
+        ]
+
+        self.current_focus = [
+            "LLMs",
+            "RAG Pipelines",
+            "Prompt Engineering",
+            "AI Applications",
+            "Cloud & Backend Development",
+            "Security Automation"
+        ]
+
+    def motto(self):
+        return "Build. Learn. Solve. Innovate. 🚀"
 <br clear="right"/>
-
-📊 &nbsp;GitHub Analytics
+🧠 What I Do
 <div align="center">
-<a href="https://github.com/mohamedsameer27">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedsameer27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" width="48%" />
-</a>
-<a href="https://github.com/mohamedsameer27">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsameer27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" width="48%" />
-</a>
+🤖 Artificial Intelligence	💻 Full-Stack Development	🔐 Cybersecurity
+AI/ML Applications	Modern Web Applications	Vulnerability Assessment
+Generative AI	REST APIs	Network Security
+LLMs & RAG	Backend Systems	Ethical Hacking
+Prompt Engineering	Database Integration	Security Tools
 </div>
+🛠️ Tech Stack
+💻 Programming Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java" /> </p>
+🌐 Frontend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /> </p>
+⚙️ Backend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /> </p>
+🤖 AI / ML & Generative AI
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /> </p> <div align="center">
 
-<br>
+Scikit-learn • Hugging Face Transformers • LangChain
 
-<div align="center">
-<a href="https://github.com/mohamedsameer27">
-<img src="https://streak-stats.demolab.com?user=mohamedsameer27&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" width="70%" />
-</a>
+LLMs • Prompt Engineering • RAG Pipelines • Fine-tuning
+
 </div>
-
-<br>
-
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" /> </p>
+🔐 Cybersecurity & Networking
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsameer27&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+
+Kali Linux • Nmap • Wireshark • Burp Suite
+
+Metasploit • Ethical Hacking • Vulnerability Assessment
+
+TCP/IP • DNS • Socket Programming • Network Security • VOIP
+
 </div>
+🚀 Featured Projects
+📚 Learning Management System
 
-<br>
+Full-stack platform designed for managing educational activities.
 
-<div align="center">
-<a href="https://github-profile-trophy.vercel.app/?username=mohamedsameer27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4">
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedsameer27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
-</a>
-</div>
+Features
 
-💼 &nbsp;Professional Experience
-Internship Trainee – LMS Development @ Adroit Technologies (IBM Naan Mudhalvan)  |  Dec 2024 – Feb 2025  |  Chennai, India
-Cybersecurity Intern @ Livewire  |  2023  |  Chennai, India
-🚀 &nbsp;Featured Projects
-<div align="center">
+📖 Course management
+👨‍🎓 Student record management
+📝 Assignment management
+📚 Learning resources
+🔐 Secure user authentication
+🌐 Full-stack web architecture
 
-Project
 Tech Stack
-Highlights & Metrics
-Kali Linux Vulnerability Tool	Python Kali Linux Bash	Automated scanning tool for authorized systems. Identifies risks and generates remediation reports 10x faster than manual checks.
-AI Voice Assistant	Python TensorFlow OpenCV	NLP-driven assistant for voice commands and task automation. Integrated with custom APIs for real-time execution.
-Phishing Detection System	Python Scikit-learn GenAI	ML-powered engine identifying malicious URLs and emails. Achieved 94% accuracy in detecting fraudulent patterns.
 
-</div>
+React.js Node.js Express.js MongoDB Tailwind CSS
 
-🏆 &nbsp;Achievements & Certifications
+📞 VOIP Communication System
+
+Real-time voice communication system built using networking and socket programming concepts.
+
+Highlights
+
+🌐 Voice communication over IP networks
+🔌 Socket programming
+📡 TCP/IP networking concepts
+⚡ Real-time communication
+🧩 Network protocol integration
+
+Tech Stack
+
+Python Socket Programming TCP/IP Networking
+
+🎙️ AI Voice Assistant
+
+AI-powered voice assistant capable of understanding voice commands and performing automated tasks.
+
+Capabilities
+
+🎤 Speech recognition
+🧠 AI-powered responses
+🗣️ Voice command processing
+⚙️ Task automation
+🔗 AI API integration
+
+Tech Stack
+
+Python Speech Recognition AI Libraries APIs
+
+🛡️ Phishing Detection System
+
+Machine-learning and security-based system designed to identify potentially malicious websites, suspicious URLs, and fraudulent emails.
+
+Capabilities
+
+🔎 Suspicious URL analysis
+🌐 Malicious website detection
+📧 Fraudulent email identification
+🤖 Machine learning analysis
+🔐 Security-focused detection
+
+Tech Stack
+
+Python Machine Learning Cybersecurity Security Analysis
+
+🐉 Kali Linux Vulnerability Assessment Tool
+
+Cybersecurity assessment tool designed for authorized systems to identify vulnerabilities and generate security reports.
+
+Capabilities
+
+🔍 Vulnerability scanning
+🛡️ Security risk analysis
+📊 Report generation
+💡 Remediation recommendations
+🖥️ Authorized system assessment
+
+Tech Stack
+
+Python Kali Linux Networking Security Tools
+
+💼 Experience
+🏢 Adroit Technologies Innovative Solutions Pvt. Ltd.
+Internship Trainee — Learning Management System
+
+IBM Naan Mudhalvan 4th Semester (2024–25) EBPL Program
+
+📅 29 December 2025 – 9 February 2026
+
+Completed internship training focused on LMS development and implementation.
+Gained practical exposure to software development and web technologies.
+Worked with real-world project workflows.
+Improved technical and problem-solving skills.
+Collaborated on hands-on development tasks.
+🔐 Livewire Internship
+Cybersecurity & Ethical Hacking
+Hands-on exposure to ethical hacking concepts.
+Worked with cybersecurity and network security concepts.
+Practiced vulnerability assessment methodologies.
+Explored security testing tools.
+Worked with networking and security labs.
+
+Tools & Technologies
+
+Kali Linux Nmap Wireshark Burp Suite Metasploit
+
+🏆 Certifications & Achievements
 <div align="center">
-
-Emoji
-Achievement
-Details
-🏅	IBM Naan Mudhalvan EBPL Program	Selected for an intensive LMS development internship at Adroit Technologies.
-🛡️	Certified Ethical Hacker	Earned certification from Livewire, mastering network security and vulnerability assessment.
-🥽	XR Technology Virtual Internship	Successfully completed specialized virtual training in Extended Reality (XR) technologies.
-🎓	Multi-Language Programming Cert	Certified in Python, C, C++, and Java from CSC Computer Educational Institution.
-
+🏅 Certification / Achievement	📌 Area
+🐍 Python Certification	CSC Computer Educational Institution
+💻 C & C++ Certification	CSC Computer Educational Institution
+☕ Java Certification	CSC Computer Educational Institution
+🤖 Generative AI Hands-on	LLMs, RAG, Prompt Engineering
+🔐 Ethical Hacking & Cybersecurity	Livewire
+📚 LMS Internship	IBM Naan Mudhalvan / AdroIT
+🥽 XR Technology Virtual Internship	Naan Mudhalvan / E16AI
 </div>
-
-🎓 &nbsp;Education & Continuous Learning
+🎓 Education
 <div align="center">
+🎓 B.E. Computer Science & Engineering
 
-Degree
-Institution
-Year
-Score
-B.E. Computer Science & Engineering	Aalim Muhammed Salegh College of Engineering	2025 (Expected)	7.68 CGPA
-Higher Secondary (12th)	Tan Academy Matric Hr Sec School	2023	63.4%
+Aalim Muhammed Salegh College of Engineering, Chennai
+
+Currently Pursuing — Final Year
+
+CGPA: 7.68
+
+📘 Higher Secondary — 12th
+
+Tan Academy Matric Higher Secondary School, Kumbakonam
+
+2023 — 63.4%
 
 </div>
+🧠 Currently Learning
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=70A5FD&center=true&vCenter=true&width=750&lines=Exploring+Large+Language+Models;Building+RAG+Pipelines;Learning+Vector+Databases;Experimenting+with+AI+Agents;Improving+Cloud+%26+Backend+Skills;Exploring+Cybersecurity+Automation" /> </div>
+🤖 Generative AI
+   ├── Large Language Models
+   ├── RAG Pipelines
+   ├── Prompt Engineering
+   └── Fine-tuning
 
-<br>
+🧠 Machine Learning
+   ├── TensorFlow
+   ├── PyTorch
+   ├── Scikit-learn
+   └── OpenCV
 
-text
+💻 Software Development
+   ├── React.js
+   ├── Next.js
+   ├── Node.js
+   ├── FastAPI
+   └── Flask
 
-🧠 Currently Learning → Advanced Generative AI & Cybersecurity
-  └── Topic 1 → Building RAG (Retrieval-Augmented Generation) Pipelines with LangChain
-  └── Topic 2 → Fine-tuning LLMs (GPT, Claude) for specific task automation
-  └── Topic 3 → Advanced Penetration Testing & VOIP Security Protocols
-<br>
-
+🔐 Cybersecurity
+   ├── Ethical Hacking
+   ├── Vulnerability Assessment
+   ├── Network Security
+   └── Security Automation
+📊 GitHub Analytics
+<div align="center"> <a href="https://github.com/MohamedSameer27"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedSameer27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/> </a> <a href="https://github.com/MohamedSameer27"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSameer27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </a> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=MohamedSameer27&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="75%"/> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSameer27&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true" width="100%"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MohamedSameer27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/> </div>
+💡 My Development Philosophy
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+Think → Build → Test → Improve → Ship
 </div>
+                 ┌─────────────────────┐
+                 │       PROBLEM       │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │      RESEARCH      │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       DESIGN       │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       BUILD        │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       TEST         │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │       SHIP 🚀      │
+                 └─────────────────────┘
+🤝 Let's Connect
+<div align="center"> <a href="mailto:mohamedsameer2702005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/MohamedSameer27"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<br/><br/>
+
+💬 Open to
+
+Internships • Full-Stack Development • AI/ML Projects
+
+Generative AI • Cybersecurity • Open Source Collaboration
+
+</div>
+<div align="center">
+🚀 Building the Future, One Commit at a Time.
+
+Mohamed Sameer S
+
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer&animation=twinkling"/> </div> ```
+What I changed
+Removed unsupported/older project claims such as Airline Reservation System and AI Portfolio Generator.
+Added your Phishing Detection System and Kali Linux Vulnerability Assessment Tool, which are explicitly present in your resume.
+Added your actual AI/ML stack: TensorFlow, PyTorch, Scikit-learn, OpenCV, Hugging Face Transformers and LangChain.
+Added Livewire Cybersecurity Internship and the tools you worked with: Kali Linux, Nmap, Wireshark, Burp Suite and Metasploit.
+Added your IBM Naan Mudhalvan / Adroit Technologies LMS internship with the correct duration.
+Added animated typing text, animated header/footer, GitHub stats, streaks, activity graph, contribution snake and trophy wall.
+Structured it more like a professional developer portfolio rather than a simple student README.
+Kept your CGPA 7.68 and education details consistent with the resume.
+
+One important point: your resume says you are currently pursuing your final year, so I kept that wording rather than presenting the degree as already completed.
+
+
+developer = MohamedSameer()
+print(developer.motto())

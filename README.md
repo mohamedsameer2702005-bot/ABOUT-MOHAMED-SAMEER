@@ -36,7 +36,7 @@
 
 <br>
 
-```python
+python
 class MohamedSameer:
 
     def __init__(self):
@@ -276,4 +276,4 @@ Tan Academy Matric Higher Secondary School
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=BF91F3&center=true&vCenter=true&width=700&lines=Open+to+Internships+%F0%9F%92%BC;Open+to+AI%2FML+Projects+%F0%9F%A4%96;Open+to+Full-Stack+Opportunities+%F0%9F%92%BB;Open+to+Cybersecurity+Projects+%F0%9F%94%90;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80"/> </div>
 <!-- ===================== ANIMATED FOOTER ===================== --> <div align="center"> <br>
 🚀 BUILD • LEARN • SOLVE • INNOVATE
-<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80"/> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00C9A7&height=160&section=footer&animation=twinkling"/> </div> ```
+<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80"/> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00C9A7&height=160&section=footer&animation=twinkling"/> </div> 

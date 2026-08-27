@@ -268,18 +268,7 @@ Tan Academy Matric Higher Secondary School
 |--------|-------|------------|
 | [🤖 **AI Portfolio Generator**](https://github.com/MohamedSameer27) | Python · Flask · HTML · CSS · JS | Auto-generates professional portfolio content & layouts from user input; responsive UI with dynamic backend integration |
 | [📚 **Learning Management System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | Full-featured LMS with course management, student records, assignments & secure authentication |
-| [🤖 **Multi-Agent System**](https://github.com/MohamedSameer27) | .🤖 Google ADK — Build and manage AI agents
-🧠 Gemini API — Reasoning, planning, and decision-making
-🐍 Python — Core development
-🌐 REST APIs — Connect external services
-🤗 Hugging Face — Access AI/ML models when required
-🛠️ Custom Tools — Perform specific actions for the agent
-🔍 Search Tool — Retrieve required information
-📊 Data Processing Tools — Process and analyze data
-✅ Verification Tool — Validate agent outputs
-🔄 Retry/Error Handler — Recover from failed operations
-💾 Database — Store tasks, results, and execution history
-🖥️ Frontend | End-to-end flight search, seat selection, booking management & ticket confirmation system |
+| [🤖 **Multi-Agent System**](https://github.com/MohamedSameer27) | Google ADK .Gemini API .Python . REST APIs .Search Tool. .Verification Tool .Database.| Our project is an Agentic AI system that doesn't simply answer questions. It understands a user's objective, plans the required steps, uses tools to perform those steps, verifies the results, and automatically handles errors to complete the task. |
 | [📞 **VOIP Communication System**](https://github.com/MohamedSameer27) | Python · Socket Programming · Networking | Real-time voice-over-IP system using TCP/UDP sockets and communication protocol design |
 | [🎙️ **AI Voice Assistant**](https://github.com/MohamedSameer27) | Python · Speech Recognition · AI APIs | Voice-command assistant with speech processing, task automation & interactive AI-driven responses |
 

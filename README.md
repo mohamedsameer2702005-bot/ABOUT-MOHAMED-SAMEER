@@ -268,7 +268,18 @@ Tan Academy Matric Higher Secondary School
 |--------|-------|------------|
 | [🤖 **AI Portfolio Generator**](https://github.com/MohamedSameer27) | Python · Flask · HTML · CSS · JS | Auto-generates professional portfolio content & layouts from user input; responsive UI with dynamic backend integration |
 | [📚 **Learning Management System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | Full-featured LMS with course management, student records, assignments & secure authentication |
-| [✈️ **Airline Reservation System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | End-to-end flight search, seat selection, booking management & ticket confirmation system |
+| [🤖 **Multi-Agent System**](https://github.com/MohamedSameer27) | .🤖 Google ADK — Build and manage AI agents
+🧠 Gemini API — Reasoning, planning, and decision-making
+🐍 Python — Core development
+🌐 REST APIs — Connect external services
+🤗 Hugging Face — Access AI/ML models when required
+🛠️ Custom Tools — Perform specific actions for the agent
+🔍 Search Tool — Retrieve required information
+📊 Data Processing Tools — Process and analyze data
+✅ Verification Tool — Validate agent outputs
+🔄 Retry/Error Handler — Recover from failed operations
+💾 Database — Store tasks, results, and execution history
+🖥️ Frontend | End-to-end flight search, seat selection, booking management & ticket confirmation system |
 | [📞 **VOIP Communication System**](https://github.com/MohamedSameer27) | Python · Socket Programming · Networking | Real-time voice-over-IP system using TCP/UDP sockets and communication protocol design |
 | [🎙️ **AI Voice Assistant**](https://github.com/MohamedSameer27) | Python · Speech Recognition · AI APIs | Voice-command assistant with speech processing, task automation & interactive AI-driven responses |
 

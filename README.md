@@ -258,8 +258,21 @@ Tan Academy Matric Higher Secondary School
    └── Security Automation
 📊 GitHub Statistics
 <div align="center"> <a href="https://github.com/MohamedSameer27"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedSameer27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> </a> <a href="https://github.com/MohamedSameer27"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSameer27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </a> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=MohamedSameer27&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00C9A7&fire=BF91F3&currStreakLabel=00C9A7&sideLabels=70A5FD&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="80%"/> </div>
+## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+
+| Project | Stack | Highlights |
+|--------|-------|------------|
+| [🤖 **AI Portfolio Generator**](https://github.com/MohamedSameer27) | Python · Flask · HTML · CSS · JS | Auto-generates professional portfolio content & layouts from user input; responsive UI with dynamic backend integration |
+| [📚 **Learning Management System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | Full-featured LMS with course management, student records, assignments & secure authentication |
+| [✈️ **Airline Reservation System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | End-to-end flight search, seat selection, booking management & ticket confirmation system |
+| [📞 **VOIP Communication System**](https://github.com/MohamedSameer27) | Python · Socket Programming · Networking | Real-time voice-over-IP system using TCP/UDP sockets and communication protocol design |
+| [🎙️ **AI Voice Assistant**](https://github.com/MohamedSameer27) | Python · Speech Recognition · AI APIs | Voice-command assistant with speech processing, task automation & interactive AI-driven responses |
+
+</div>
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSameer27&theme=tokyo-night&bg_color=0D1117&color=00C9A7&line=BF91F3&point=70A5FD&area=true&hide_border=true" width="100%"/> </div>
 🐍 Contribution Snake Animation

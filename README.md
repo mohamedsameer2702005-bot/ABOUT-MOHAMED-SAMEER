@@ -272,9 +272,6 @@ Tan Academy Matric Higher Secondary School
 | [📞 **VOIP Communication System**](https://github.com/MohamedSameer27) | Python · Socket Programming · Networking | Real-time voice-over-IP system using TCP/UDP sockets and communication protocol design |
 | [🎙️ **AI Voice Assistant**](https://github.com/MohamedSameer27) | Python · Speech Recognition · AI APIs | Voice-command assistant with speech processing, task automation & interactive AI-driven responses |
 
-</div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedSameer27&theme=tokyo-night&bg_color=0D1117&color=00C9A7&line=BF91F3&point=70A5FD&area=true&hide_border=true" width="100%"/> </div>
 🐍 Contribution Snake Animation
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
 🏆 GitHub Trophy Wall
